@@ -1,4 +1,11 @@
-### Hi there 👋
+# Michael at Github
+Ah YAP (yet another profile)
+
+- ⚡ Fun fact: I hated computer science in high school now I crave it, and enjoy nothing more than leading software engineers.
+- 🤔 I’m looking for help with my open source [indrz project](https://gitlab.com/indrz) project also mirrored to Github of course
+- [Personal homepage](https://michael-diener.com) a simple online CV so to say.
+- My business homepage [gomogi.com](https://gomogi.com) a place to find out about my companies services
+
 
 <!--
 **mdiener21/mdiener21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
