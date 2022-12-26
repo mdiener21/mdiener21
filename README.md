@@ -6,8 +6,8 @@ Ah YAP (yet another profile)
 - [Personal homepage](https://michael-diener.com) a simple online CV so to say.
 - My business homepage [gomogi.com](https://gomogi.com) a place to find out about my companies services
 - ⚡ Fun fact: I was not into computer science in high school, now I crave it, and enjoy nothing more than leading software engineers.
-- - 🌱 I’m currently learning about passkeys and passwordless security, the future without passwords
-- - 📫 How to reach me: visit [michael-diener.com](https://michael-diener.com) fill out the contact form.
+- 🌱 I’m currently learning about passkeys and passwordless security, the future without passwords
+- 📫 How to reach me: visit [michael-diener.com](https://michael-diener.com) fill out the contact form.
 
 
 <!--
