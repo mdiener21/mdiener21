@@ -1,4 +1,4 @@
-# Michael at Github
+# Michael Diener a little about myself
 Ah YAP (yet another profile)
 
 
