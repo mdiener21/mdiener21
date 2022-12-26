@@ -1,7 +1,7 @@
 # Michael at Github
 Ah YAP (yet another profile)
 
-- ⚡ Fun fact: I did not like computer science in high school, now I crave it, and enjoy nothing more than leading software engineers.
+- ⚡ Fun fact: I was not into computer science in high school, now I crave it, and enjoy nothing more than leading software engineers.
 - 🤔 I’m looking for help with my open source [indrz project](https://gitlab.com/indrz) project also mirrored to Github of course
 - [Personal homepage](https://michael-diener.com) a simple online CV so to say.
 - My business homepage [gomogi.com](https://gomogi.com) a place to find out about my companies services
