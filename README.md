@@ -9,6 +9,7 @@ Ah YAP (yet another profile)
 - 🌱 Next up: passkeys and passwordless security, the future without passwords
 - 📫 Contact me: [michael-diener.com](https://michael-diener.com) fill out the contact form please as spam is still a thing 😞
 
+- [My Gitlab.com profile](https://gitlab.com/mdiener21) where I mostly work
 
 <!--
 **mdiener21/mdiener21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
