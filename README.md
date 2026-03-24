@@ -5,7 +5,7 @@ Ah YAP (yet another profile)
 
 ## Open Source Projects of Mine
 
-- :🤔📋 [Local Personal Kanban Board](https://mdiener21.github.io/personal-kanban/) a modern sleek, fast, local first Personal Kanban Board
+- :🤔📋 [Local Personal AI Kanban Board](https://mdiener21.github.io/personal-kanban/) a modern sleek, fast, local first Personal Kanban Board also cool for watching your AI-agents work in the flow
 - 🗺️ [MapHop personal fast maps](https://maphop.eu) no backend, simple map tile viewer and save favourite locations to local indexdb client storage only.
 - 🚀 [INDRZ indoor mapping project](https://gitlab.com/indrz) [github mirror](https://github.com/indrz) open for help, also mirrored to Github of course
 
