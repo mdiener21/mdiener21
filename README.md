@@ -11,7 +11,7 @@ Ah YAP (yet another profile)
 
 - <img width="64" height="46" alt="kanvana-logo-color-64x46px" src="https://github.com/user-attachments/assets/2c162b1d-bff1-4382-8078-844774a21714" /> **Kanvana** [A Local First Personal AI Agent Kanban Board](https://mdiener21.github.io/kanvana/) a modern sleek, fast, local first Personal Kanban Board also cool for watching your AI-agents work in the flow
 - <img width="64" height="64" alt="maphop-logo-72px" src="https://github.com/user-attachments/assets/2666d260-cbf0-4da2-bd18-6800cc640317" /> **MapHop** [A PWA Speedy Map Viewer](https://maphop.eu) no backend, simple map tile viewer and save favourite locations to local indexdb client storage only.
-- <img width="32" height="32" alt="indrz-logo-dark-nostroke-50px" src="https://github.com/user-attachments/assets/24e78115-7296-403b-82e9-48420a562ae8" /> **INDRZ** [Indoor mapping project](https://gitlab.com/indrz) [github mirror](https://github.com/indrz) open for help, also mirrored to Github of course
+- <img width="32" height="32" alt="indrz-logo-dark-nostroke-50px" src="https://github.com/user-attachments/assets/24e78115-7296-403b-82e9-48420a562ae8" /> **INDRZ** [Indoor mapping project](https://gitlab.com/indrz) [github mirror](https://github.com/indrz) indoor mapping on your own terms to app all web powered capabilities.
 - <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/1a3bd0d9-c7b5-46e9-ac07-806e6c5c7149" /> **BRF-CLI** [brf cli](https://github.com/mdiener21/brf-cli/)brf = brief keep it short be brief CLI a tool for people who like CLI's and an exploration of AI assisted coding for learning.
 
 ## About
